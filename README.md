@@ -11,4 +11,4 @@ Execute the SampleAcn application:
 ```
 
 ## References
-[JAAS Authentication Tutorial](https://docs.oracle.com/en/java/javase/15/security/jaas-authentication-tutorial.html#GUID-BFEBDB00-9826-499C-A20F-E9463883DED4)git 
+[JAAS Authentication Tutorial](https://docs.oracle.com/en/java/javase/15/security/jaas-authentication-tutorial.html#GUID-BFEBDB00-9826-499C-A20F-E9463883DED4)
